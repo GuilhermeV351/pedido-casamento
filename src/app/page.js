@@ -109,10 +109,10 @@ export default function Home() {
             Sim!!! ❤️
           </h1>
           <img
-            src="nossa-foto.jpg"
-            alt="Nós dois"
-            className="rounded-full w-60 h-60 object-cover shadow-lg mx-auto mb-4"
-          />
+  src="/nossa-foto.jpg" // ← com a barra no começo!
+  alt="Nó́s dois"
+  className="rounded-full w-60 h-60 object-cover shadow-lg mx-auto mb-4"
+/>
           <p className="text-lg text-pink-700 max-w-md mb-4">
             Só vamos nos casar futuramente, mas já estamos conectados pro resto da vida 🥭👅
           </p>
