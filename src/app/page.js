@@ -109,7 +109,7 @@ export default function Home() {
             Sim!!! ❤️
           </h1>
           <img
-            src="/nossa-foto.jpg"
+            src="nossa-foto.jpg"
             alt="Nós dois"
             className="rounded-full w-60 h-60 object-cover shadow-lg mx-auto mb-4"
           />
