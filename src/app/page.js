@@ -109,8 +109,8 @@ export default function Home() {
             Sim!!! ❤️
           </h1>
           <img
-  src="/nossa-foto.jpg" // ← com a barra no começo!
-  alt="Nó́s dois"
+  src="/nossa-foto-princesa.jpg"
+  alt="Nós dois hehehe"
   className="rounded-full w-60 h-60 object-cover shadow-lg mx-auto mb-4"
 />
           <p className="text-lg text-pink-700 max-w-md mb-4">
