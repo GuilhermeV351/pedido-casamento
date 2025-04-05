@@ -118,7 +118,7 @@ export default function Home() {
           </p>
           <div className="bg-white p-4 rounded-xl shadow text-pink-700 mb-4 max-w-md">
             <p className="italic">
-              Não quero apenas ser alguém que te ama; quero ser aquele que te faz sorrir mesmo nos dias difíceis, que te ajuda a carregar o peso do mundo quando ele parecer demais. 
+              Não quero apenas ser alguém que te ama, quero ser aquele que te faz sorrir mesmo nos dias difíceis, que te ajuda a carregar o peso do mundo quando ele parecer demais. 
               Quero ser aquele que te lembra, sempre, que o que vivemos vale cada tentativa, cada obstáculo superado, cada batalha vencida. <br /><br />
               Se encontrar um tesouro exige paciência e dedicação, então que assim seja. Porque, para mim, você é o maior tesouro que a vida poderia me dar. Te amo.
             </p>
